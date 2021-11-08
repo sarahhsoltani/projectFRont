@@ -1,0 +1,79 @@
+.propos{
+    background-image: url("../../images/2_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 65vh;
+}
+.item-one{
+   
+    font-family: "Playfair Display";
+    font-size: 2rem;
+}
+.item-two{
+    font-size: 37px !important;
+   font-weight: 700;
+   
+}
+.item-three{
+   
+    font-size: 42px;
+    font-weight: 800;
+}
+.allt{
+    background-image: url("../../images/6-1024x534.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 42vh;
+}
+.back{
+    background-image: url("../../images/5-1024x534.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 42vh;
+}
+.para {
+    font-family: "Noto Serif",serif;
+    font-size: 17px;
+    line-height: 35px;
+    color: #8f8f8f;
+    font-weight: 400;
+}
+.progress{
+    height: 35px;
+    width: 48rem;
+}
+.revieus{
+    border-radius: 176px !important;
+    width: 88px !important;
+    height: 83px !important;
+    margin-left: 113px;
+}
+.section-five {
+    background-image: url("../../images/1_4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 66vh;
+    background-position-y: -130px;
+}
+.stats{
+        font-weight: 600;
+}
+.input-formm{
+    width: 20% !important;
+}
+.input-propos{
+    background: transparent !important;
+    border: 1px solid black !important;
+    border-right: none !important;
+    width: 36rem !important;
+    margin-left: 129px;
+}
+.recieve{
+    font-family: "Playfair Display" !important;
+    font-size: 18px !important;
+    line-height: 39px !important;
+}
